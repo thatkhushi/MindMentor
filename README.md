@@ -1,6 +1,6 @@
 Cloning the repository
 --> Clone the repository using the command below :
-git clone https://github.com/thatkhushi/GenAI-projects-intel.git
+git clone https://github.com/thatkhushi/MindMentor.git
 
 
 --> Move into the directory where we have the project files :
